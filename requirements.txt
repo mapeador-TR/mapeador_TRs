@@ -1,0 +1,5 @@
+pandas
+python-docx
+lxml
+odfpy
+openpyxl
